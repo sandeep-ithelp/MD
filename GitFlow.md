@@ -1,4 +1,5 @@
-# GitFlow
+# GitFlow 
+[Back to Etiquette](Etiquette.md)
 
 ## Warning - Do not use!
 GitFlow introduces **rigid branching patterns** that can **slow down** modern CI/CD workflows, making it less ideal for fast-paced teams embracing trunk-based development or continuous deployment.
@@ -19,4 +20,6 @@ graph TD
     E --> B
     A --> G[tag v1.0.0]
 
+# Trunk branching 
+[Back to Etiquette](Etiquette.md)
 
