@@ -20,7 +20,7 @@ graph TD
     E --> A
     E --> B
     A --> G[tag v1.0.0]
-
+```
 # Trunk branching 
 [Back to Etiquette](Etiquette.md)
 
